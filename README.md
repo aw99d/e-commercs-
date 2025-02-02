@@ -73,22 +73,6 @@ http://localhost:3000
 ```
 
 
-## Technologies Used
-
-Frontend:
-
-Angular: A powerful frontend framework for building dynamic web applications.
-
-Tailwind CSS: A utility-first CSS framework for styling the UI efficiently.
-
-ngx-owl-carousel-o: A carousel library for displaying product images attractively.
-
-ngx-toastr: A notification library for showing alerts and messages to users.
-
-PrimeNG: A rich UI component library for Angular applications.
-
-Authentication: JWT-OAuth: Methods used for secure user authentication and authorization.
-
 
 
 
