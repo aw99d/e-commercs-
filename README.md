@@ -1,6 +1,6 @@
 # eCommerce Website
 
-## A live Preview of the website is [Here](https://aw99d.github.io/e-commercs-)
+## A live Preview of the website is [Here](https://fakestorer.netlify.app/)
 
 
 ## Introduction
